@@ -6,5 +6,5 @@ A simple Bitcoin paper wallet
 # Wallet
 https://art3m198.github.io/Bitcoin-paper-wallet/
 
-# Donate WATC: 
+# Donate BTC: 
 1BcKQBGW7e14g1hxtggSsL3NgYEuUe6BM1
